@@ -88,13 +88,11 @@
 
 ## 📈 GitHub Activity Graph
 
+## 📈 GitHub Activity Graph
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul203-ux&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul203-ux&theme=github-dark&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
 </p>
----
-
-
-<div align="center">
 
 ### ⭐ "Building AI that solves real-world problems."
 
