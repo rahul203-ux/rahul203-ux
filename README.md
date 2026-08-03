@@ -94,6 +94,6 @@
 
   ### ⭐ "Building AI that solves real-world problems."   
                                                                                                                   
-                                                             Thanks for visiting my profile! 😊
+   Thanks for visiting my profile! 😊
 
 </div>
