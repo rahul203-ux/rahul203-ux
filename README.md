@@ -19,7 +19,7 @@
 - 👯 Looking to collaborate on **Open Source AI/ML & Generative AI Projects**
 - 🤝 Looking for guidance on **Production-Ready AI Systems & LLM Applications**
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, NLP, Computer Vision, TensorFlow & Streamlit**
-- 📫 📫 Reach me at **[rahulkala228@gmail.com](mailto:rahulkala228@gmail.com)**
+- 📫 Reach me at **[rahulkala228@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=rahulkala228@gmail.com)**
 - 👨‍💻 Explore my projects: **https://github.com/rahul203-ux**
 
 ---
