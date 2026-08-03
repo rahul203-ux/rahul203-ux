@@ -91,15 +91,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rahul203-ux&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
-
----
 
 <div align="center">
 
