@@ -56,19 +56,19 @@
 
 
 
-<h2 align="center">🤝 Let's Connect</h2>
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
 <a href="mailto:rahulkala228@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://www.linkedin.com/in/rahul-kalathoti-2976903b8/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Kalathoti%20Rahul-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/rahul-kalathoti-2976903b8/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/rahul203-ux" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-rahul203--ux-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/rahul203-ux">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 </p>
 
