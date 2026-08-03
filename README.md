@@ -92,7 +92,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul203-ux&theme=github-dark&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
 </p>
 
-### ⭐ "Building AI that solves real-world problems."
+                                                  ### ⭐ "Building AI that solves real-world problems."
 
                                                           Thanks for visiting my profile! 😊
 
