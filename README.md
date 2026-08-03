@@ -55,20 +55,21 @@
 
 
 
+
 ## 🌐 Connect with Me
 
 <p align="left">
 
-<a href="mailto:rahulkala228@gmail.com">
-<img src="https://img.shields.io/badge/Email-rahulkala228%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rahulkala228@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/rahul-kalathoti-2976903b8/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Kalathoti%20Rahul-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Kalathoti%20Rahul-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/rahul203-ux" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-rahul203--ux-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-rahul203--ux-black?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
