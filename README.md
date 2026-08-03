@@ -59,7 +59,7 @@
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-<a href="mailto:rahulkala228@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rahulkala228@gmail.com" target="_blank">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
