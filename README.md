@@ -39,7 +39,6 @@
 - 🌾 AI Crop Disease Detection & Farmer Assistance System
 - 📈 Stock Price Prediction using LSTM
 - 🎙️ Document-to-Speech Converter
-- 🌍 Language Translator
 
 ---
 
