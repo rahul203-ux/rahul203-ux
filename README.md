@@ -63,14 +63,19 @@
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
+
+
 <a href="https://www.linkedin.com/in/rahul-kalathoti-2976903b8/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
+
 
 <a href="https://github.com/rahul203-ux">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 </p>
+
+
 
 ---
 
