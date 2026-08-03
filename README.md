@@ -81,28 +81,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rahul203-ux&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul203-ux&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul203-ux&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 ## 📈 GitHub Activity Graph
 
 [![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rahul203-ux&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
