@@ -86,9 +86,13 @@
 
 ---
 
-## 📈 GitHub Activity Graph
+## ## 📈 GitHub Activity Graph
 
-[![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rahul203-ux&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <a href="https://github.com/rahul203-ux">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul203-ux&theme=tokyo-night&hide_border=true" width="100%"/>
+  </a>
+</p>
 
 ---
 
