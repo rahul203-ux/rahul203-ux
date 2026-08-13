@@ -117,11 +117,20 @@
 
 <br>
 
-## 🔥 Contribution Streak
+<!-- GitHub Stats -->
+
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=rahul203-ux&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rahul203-ux&show_icons=true&locale=en&theme=tokyonight&hide_border=true"
+    alt="Rahul's GitHub Stats"
+  />
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul203-ux&show_icons=true&locale=en" alt="rahul203-ux" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul203-ux&" alt="rahul203-ux" /></p>
+<!-- GitHub Streak -->
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=rahul203-ux&theme=tokyonight&hide_border=true"
+    alt="Rahul's GitHub Streak"
+  />
+</p>
