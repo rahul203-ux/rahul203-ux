@@ -106,12 +106,12 @@
 <tr style="border:none; background-color:transparent !important;">
 <td align="center" style="border:none; background-color:transparent !important;"><img src="https://skillicons.dev/icons?i=vercel" width="45"><br><b>Vercel</b></td>
 <td align="center" style="border:none; background-color:transparent !important;"><img src="https://skillicons.dev/icons?i=netlify" width="45"><br><b>Netlify</b></td>
-<td align="center" style="border:none; background-color:transparent !important;"><img src="https://img.icons8.com/color/96/streamlit.png" width="45"><br><b>Streamlit</b></td>
-<td align="center" style="border:none; background-color:transparent !important;"><img src="https://img.icons8.com/color/96/oracle-logo.png" width="45"><br><b>Oracle</b></td>
-<td align="center" style="border:none; background-color:transparent !important;"><img src="https://img.icons8.com/color/96/render.png" width="45"><br><b>Render</b></td>
-<td align="center" style="border:none; background-color:transparent !important;"><img src="https://img.icons8.com/color/96/canva.png" width="45"><br><b>Canva</b></td>
-<td align="center" style="border:none; background-color:transparent !important;"><img src="https://img.icons8.com/color/96/pandas.png" width="45"><br><b>Pandas</b></td>
-<td align="center" style="border:none; background-color:transparent !important;"><img src="https://img.icons8.com/color/96/selenium-test-automation.png" width="45"><br><b>Selenium</b></td>
+<td align="center" style="border:none; background-color:transparent !important;"><img src="https://cdn.simpleicons.org/streamlit" width="45"><br><b>Streamlit</b></td>
+<td align="center" style="border:none; background-color:transparent !important;"><img src="https://cdn.simpleicons.org/oracle" width="45"><br><b>Oracle</b></td>
+<td align="center" style="border:none; background-color:transparent !important;"><img src="https://cdn.simpleicons.org/render" width="45"><br><b>Render</b></td>
+<td align="center" style="border:none; background-color:transparent !important;"><img src="https://cdn.simpleicons.org/canva" width="45"><br><b>Canva</b></td>
+<td align="center" style="border:none; background-color:transparent !important;"><img src="https://cdn.simpleicons.org/pandas" width="45"><br><b>Pandas</b></td>
+<td align="center" style="border:none; background-color:transparent !important;"><img src="https://cdn.simpleicons.org/selenium" width="45"><br><b>Selenium</b></td>
 </tr>
 </table>
 
