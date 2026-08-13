@@ -82,110 +82,34 @@
 ## 💻 Languages & Tools
 
 ## 💻 Languages & Tools
-<table align="center" border="0" cellspacing="0" cellpadding="10" style="border-collapse: collapse; border: none;">
-<tr>
-<td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=python" width="45"><br>
-<b>Python</b>
-</td>
-<td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=java" width="45"><br>
-<b>Java</b>
-</td>
-<td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=javascript" width="45"><br>
-<b>JavaScript</b>
-</td>
-<td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="45"><br>
-<b>TensorFlow</b>
-</td>
-<td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=pytorch" width="45"><br>
-<b>PyTorch</b>
-</td>
-<td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=opencv" width="45"><br>
-<b>OpenCV</b>
-</td>
-<td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=flask" width="45"><br>
-<b>Flask</b>
-</td>
-<td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=nodejs" width="45"><br>
-<b>Node.js</b>
-</td>
-</tr>
-<tr>
-<td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=mysql" width="45"><br>
-<b>MySQL</b>
-</td>
-<td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=firebase" width="45"><br>
-<b>Firebase</b>
-</td>
-<td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=docker" width="45"><br>
-<b>Docker</b>
-</td>
-<td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=git" width="45"><br>
-<b>Git</b>
-</td>
-<td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=linux" width="45"><br>
-<b>Linux</b>
-</td>
-<td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=vscode" width="45"><br>
-<b>VS Code</b>
-</td>
-<td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=nginx" width="45"><br>
-<b>Nginx</b>
-</td>
-<td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=flutter" width="45"><br>
-<b>Flutter</b>
-</td>
-</tr>
-<tr>
-<td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=vercel" width="45"><br>
-<b>Vercel</b>
-</td>
-<td align="center" style="border: none;">
-<img src="https://skillicons.dev/icons?i=netlify" width="45"><br>
-<b>Netlify</b>
-</td>
-<td align="center" style="border: none;">
-<img src="https://img.icons8.com/color/96/streamlit.png" width="45"><br>
-<b>Streamlit</b>
-</td>
-<td align="center" style="border: none;">
-<img src="https://img.icons8.com/color/96/oracle-logo.png" width="45"><br>
-<b>Oracle</b>
-</td>
-<td align="center" style="border: none;">
-<img src="https://img.icons8.com/color/96/render.png" width="45"><br>
-<b>Render</b>
-</td>
-<td align="center" style="border: none;">
-<img src="https://img.icons8.com/color/96/canva.png" width="45"><br>
-<b>Canva</b>
-</td>
-<td align="center" style="border: none;">
-<img src="https://img.icons8.com/color/96/pandas.png" width="45"><br>
-<b>Pandas</b>
-</td>
-<td align="center" style="border: none;">
-<img src="https://img.icons8.com/color/96/selenium-test-automation.png" width="45"><br>
-<b>Selenium</b>
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python" width="45" title="Python">&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java" width="45" title="Java">&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=javascript" width="45" title="JavaScript">&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tensorflow" width="45" title="TensorFlow">&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=pytorch" width="45" title="PyTorch">&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=opencv" width="45" title="OpenCV">&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=flask" width="45" title="Flask">&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" width="45" title="Node.js">
+<br><br>
+<img src="https://skillicons.dev/icons?i=mysql" width="45" title="MySQL">&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=firebase" width="45" title="Firebase">&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" width="45" title="Docker">&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" width="45" title="Git">&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" width="45" title="Linux">&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="45" title="VS Code">&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nginx" width="45" title="Nginx">&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=flutter" width="45" title="Flutter">
+<br><br>
+<img src="https://skillicons.dev/icons?i=vercel" width="45" title="Vercel">&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=netlify" width="45" title="Netlify">&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/96/streamlit.png" width="45" title="Streamlit">&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/96/oracle-logo.png" width="45" title="Oracle">&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/96/render.png" width="45" title="Render">&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/96/canva.png" width="45" title="Canva">&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/96/pandas.png" width="45" title="Pandas">&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/96/selenium-test-automation.png" width="45" title="Selenium">
+</p>
 
 ## 📈 GitHub Activity Graph
 
