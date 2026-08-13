@@ -81,7 +81,6 @@
 
 ## 💻 Languages & Tools
 
-## 💻 Languages & Tools
 <table align="center" style="border:none; border-collapse:collapse;">
 <tr style="border:none; background-color:transparent !important;">
 <td align="center" style="border:none; background-color:transparent !important;"><img src="https://skillicons.dev/icons?i=python" width="45"><br><b>Python</b></td>
@@ -117,7 +116,6 @@
 
 <br>
 
-## 📊 GitHub Statistics
 ## 📊 GitHub Statistics
 
 <p align="center">
