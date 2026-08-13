@@ -118,18 +118,19 @@
 <br>
 
 ## 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=rahul203-ux&show_icons=true&theme=tokyonight&hide_border=true"
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=rahul203-ux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     alt="Rahul's GitHub Stats"
+    height="180"
   />
-</p>
-
-<p align="center">
-  <img
+  &nbsp;&nbsp;
+  <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul203-ux&layout=compact&theme=tokyonight&hide_border=true"
     alt="Rahul's Top Languages"
+    height="180"
   />
 </p>
 
@@ -137,5 +138,15 @@
   <img
     src="https://streak-stats.demolab.com?user=rahul203-ux&theme=tokyonight&hide_border=true"
     alt="Rahul's GitHub Streak"
+  />
+</p>
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rahul203-ux&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    alt="Rahul's GitHub Activity Graph"
   />
 </p>
