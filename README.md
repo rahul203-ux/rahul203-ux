@@ -84,64 +84,85 @@
 ## 💻 Languages & Tools
 <p align="center">
 
+<div style="display:inline-block; margin:0 15px; text-align:center;">
 <img src="https://skillicons.dev/icons?i=python" width="45"><br><b>Python</b>
-&nbsp;&nbsp;&nbsp;
+</div>
+<div style="display:inline-block; margin:0 15px; text-align:center;">
 <img src="https://skillicons.dev/icons?i=java" width="45"><br><b>Java</b>
-&nbsp;&nbsp;&nbsp;
+</div>
+<div style="display:inline-block; margin:0 15px; text-align:center;">
 <img src="https://skillicons.dev/icons?i=javascript" width="45"><br><b>JavaScript</b>
-&nbsp;&nbsp;&nbsp;
+</div>
+<div style="display:inline-block; margin:0 15px; text-align:center;">
 <img src="https://skillicons.dev/icons?i=tensorflow" width="45"><br><b>TensorFlow</b>
-&nbsp;&nbsp;&nbsp;
+</div>
+<div style="display:inline-block; margin:0 15px; text-align:center;">
 <img src="https://skillicons.dev/icons?i=pytorch" width="45"><br><b>PyTorch</b>
-&nbsp;&nbsp;&nbsp;
+</div>
+<div style="display:inline-block; margin:0 15px; text-align:center;">
 <img src="https://skillicons.dev/icons?i=opencv" width="45"><br><b>OpenCV</b>
-&nbsp;&nbsp;&nbsp;
+</div>
+<div style="display:inline-block; margin:0 15px; text-align:center;">
 <img src="https://skillicons.dev/icons?i=flask" width="45"><br><b>Flask</b>
-&nbsp;&nbsp;&nbsp;
+</div>
+<div style="display:inline-block; margin:0 15px; text-align:center;">
 <img src="https://skillicons.dev/icons?i=nodejs" width="45"><br><b>Node.js</b>
+</div>
 
 <br><br>
 
+<div style="display:inline-block; margin:0 15px; text-align:center;">
 <img src="https://skillicons.dev/icons?i=mysql" width="45"><br><b>MySQL</b>
-&nbsp;&nbsp;&nbsp;
+</div>
+<div style="display:inline-block; margin:0 15px; text-align:center;">
 <img src="https://skillicons.dev/icons?i=firebase" width="45"><br><b>Firebase</b>
-&nbsp;&nbsp;&nbsp;
+</div>
+<div style="display:inline-block; margin:0 15px; text-align:center;">
 <img src="https://skillicons.dev/icons?i=docker" width="45"><br><b>Docker</b>
-&nbsp;&nbsp;&nbsp;
+</div>
+<div style="display:inline-block; margin:0 15px; text-align:center;">
 <img src="https://skillicons.dev/icons?i=git" width="45"><br><b>Git</b>
-&nbsp;&nbsp;&nbsp;
+</div>
+<div style="display:inline-block; margin:0 15px; text-align:center;">
 <img src="https://skillicons.dev/icons?i=linux" width="45"><br><b>Linux</b>
-&nbsp;&nbsp;&nbsp;
+</div>
+<div style="display:inline-block; margin:0 15px; text-align:center;">
 <img src="https://skillicons.dev/icons?i=vscode" width="45"><br><b>VS Code</b>
-&nbsp;&nbsp;&nbsp;
+</div>
+<div style="display:inline-block; margin:0 15px; text-align:center;">
 <img src="https://skillicons.dev/icons?i=nginx" width="45"><br><b>Nginx</b>
-&nbsp;&nbsp;&nbsp;
+</div>
+<div style="display:inline-block; margin:0 15px; text-align:center;">
 <img src="https://skillicons.dev/icons?i=flutter" width="45"><br><b>Flutter</b>
+</div>
 
 <br><br>
 
+<div style="display:inline-block; margin:0 15px; text-align:center;">
 <img src="https://skillicons.dev/icons?i=vercel" width="45"><br><b>Vercel</b>
-&nbsp;&nbsp;&nbsp;
+</div>
+<div style="display:inline-block; margin:0 15px; text-align:center;">
 <img src="https://skillicons.dev/icons?i=netlify" width="45"><br><b>Netlify</b>
-&nbsp;&nbsp;&nbsp;
+</div>
+<div style="display:inline-block; margin:0 15px; text-align:center;">
 <img src="https://img.icons8.com/color/96/streamlit.png" width="45"><br><b>Streamlit</b>
-&nbsp;&nbsp;&nbsp;
+</div>
+<div style="display:inline-block; margin:0 15px; text-align:center;">
 <img src="https://img.icons8.com/color/96/oracle-logo.png" width="45"><br><b>Oracle</b>
-&nbsp;&nbsp;&nbsp;
+</div>
+<div style="display:inline-block; margin:0 15px; text-align:center;">
 <img src="https://img.icons8.com/color/96/render.png" width="45"><br><b>Render</b>
-&nbsp;&nbsp;&nbsp;
+</div>
+<div style="display:inline-block; margin:0 15px; text-align:center;">
 <img src="https://img.icons8.com/color/96/canva.png" width="45"><br><b>Canva</b>
-&nbsp;&nbsp;&nbsp;
+</div>
+<div style="display:inline-block; margin:0 15px; text-align:center;">
 <img src="https://img.icons8.com/color/96/pandas.png" width="45"><br><b>Pandas</b>
-&nbsp;&nbsp;&nbsp;
+</div>
+<div style="display:inline-block; margin:0 15px; text-align:center;">
 <img src="https://img.icons8.com/color/96/selenium-test-automation.png" width="45"><br><b>Selenium</b>
+</div>
 
-</p>
-
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul203-ux&theme=github-dark&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
 </p>
 
   ### ⭐ "Building AI that solves real-world problems."   
