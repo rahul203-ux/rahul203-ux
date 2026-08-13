@@ -121,8 +121,7 @@
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=rahul203-ux&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </p>
-  ### ⭐ "Building AI that solves real-world problems."   
-                                                                                                                  
-   Thanks for visiting my profile! 😊
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul203-ux&show_icons=true&locale=en" alt="rahul203-ux" /></p>
 
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul203-ux&" alt="rahul203-ux" /></p>
+
