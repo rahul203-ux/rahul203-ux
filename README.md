@@ -80,79 +80,65 @@
 ---
 
 ## 💻 Languages & Tools
-
 ## 💻 Languages & Tools
 
 <p align="center">
 
-<a href="https://www.python.org/">
-  <img src="https://skillicons.dev/icons?i=python" width="50"/>
-  <br>
-  <b>Python</b>
-</a>
-&nbsp;&nbsp;&nbsp;
+<table>
+<tr>
 
-<a href="https://www.tensorflow.org/">
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="50"/>
-  <br>
-  <b>TensorFlow</b>
-</a>
-&nbsp;&nbsp;&nbsp;
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="50"/><br>
+<b>Python</b>
+</td>
 
-<a href="https://opencv.org/">
-  <img src="https://skillicons.dev/icons?i=opencv" width="50"/>
-  <br>
-  <b>OpenCV</b>
-</a>
-&nbsp;&nbsp;&nbsp;
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="50"/><br>
+<b>TensorFlow</b>
+</td>
 
-<a href="https://flask.palletsprojects.com/">
-  <img src="https://skillicons.dev/icons?i=flask" width="50"/>
-  <br>
-  <b>Flask</b>
-</a>
-&nbsp;&nbsp;&nbsp;
+<td align="center">
+<img src="https://skillicons.dev/icons?i=opencv" width="50"/><br>
+<b>OpenCV</b>
+</td>
 
-<a href="https://www.mysql.com/">
-  <img src="https://skillicons.dev/icons?i=mysql" width="50"/>
-  <br>
-  <b>MySQL</b>
-</a>
-&nbsp;&nbsp;&nbsp;
+<td align="center">
+<img src="https://skillicons.dev/icons?i=flask" width="50"/><br>
+<b>Flask</b>
+</td>
 
-<a href="https://firebase.google.com/">
-  <img src="https://skillicons.dev/icons?i=firebase" width="50"/>
-  <br>
-  <b>Firebase</b>
-</a>
-&nbsp;&nbsp;&nbsp;
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>
+<b>MySQL</b>
+</td>
 
-<a href="https://www.docker.com/">
-  <img src="https://skillicons.dev/icons?i=docker" width="50"/>
-  <br>
-  <b>Docker</b>
-</a>
-&nbsp;&nbsp;&nbsp;
+<td align="center">
+<img src="https://skillicons.dev/icons?i=firebase" width="50"/><br>
+<b>Firebase</b>
+</td>
 
-<a href="https://git-scm.com/">
-  <img src="https://skillicons.dev/icons?i=git" width="50"/>
-  <br>
-  <b>Git</b>
-</a>
-&nbsp;&nbsp;&nbsp;
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" width="50"/><br>
+<b>Docker</b>
+</td>
 
-<a href="https://www.linux.org/">
-  <img src="https://skillicons.dev/icons?i=linux" width="50"/>
-  <br>
-  <b>Linux</b>
-</a>
-&nbsp;&nbsp;&nbsp;
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="50"/><br>
+<b>Git</b>
+</td>
 
-<a href="https://code.visualstudio.com/">
-  <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
-  <br>
-  <b>VS Code</b>
-</a>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux" width="50"/><br>
+<b>Linux</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>
+<b>VS Code</b>
+</td>
+
+</tr>
+</table>
 
 </p>
 
