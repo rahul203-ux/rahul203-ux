@@ -81,64 +81,98 @@
 
 ## 💻 Languages & Tools
 
-<p align="center">
 
-<table>
-<tr>
+### 🐍 Programming Languages
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" width="50"/>
+<img src="https://skillicons.dev/icons?i=java" width="50"/>
+<img src="https://skillicons.dev/icons?i=javascript" width="50"/>
+<img src="https://skillicons.dev/icons?i=dart" width="50"/>
+</p>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=python" width="50"/><br>
-<b>Python</b>
-</td>
+<p>
+<b>Python &nbsp; Java &nbsp; JavaScript &nbsp; Dart</b>
+</p>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="50"/><br>
-<b>TensorFlow</b>
-</td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=opencv" width="50"/><br>
-<b>OpenCV</b>
-</td>
+### 🤖 AI / Machine Learning
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="50"/>
+<img src="https://skillicons.dev/icons?i=pytorch" width="50"/>
+</p>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=flask" width="50"/><br>
-<b>Flask</b>
-</td>
+<p>
+<b>TensorFlow &nbsp; PyTorch &nbsp; Pandas</b>
+</p>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>
-<b>MySQL</b>
-</td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=firebase" width="50"/><br>
-<b>Firebase</b>
-</td>
+### 🌐 Web Development
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
+<img src="https://skillicons.dev/icons?i=flask" width="50"/>
+<img src="https://skillicons.dev/icons?i=nginx" width="50"/>
+</p>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=docker" width="50"/><br>
-<b>Docker</b>
-</td>
+<p>
+<b>Node.js &nbsp; Flask &nbsp; Nginx</b>
+</p>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="50"/><br>
-<b>Git</b>
-</td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=linux" width="50"/><br>
-<b>Linux</b>
-</td>
+### 🚀 Deployment & Cloud
+<p align="left">
+<img src="https://skillicons.dev/icons?i=streamlit" width="50"/>
+<img src="https://skillicons.dev/icons?i=vercel" width="50"/>
+<img src="https://skillicons.dev/icons?i=render" width="50"/>
+<img src="https://skillicons.dev/icons?i=netlify" width="50"/>
+</p>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>
-<b>VS Code</b>
-</td>
+<p>
+<b>Streamlit &nbsp; Vercel &nbsp; Render &nbsp; Netlify</b>
+</p>
 
-</tr>
-</table>
 
+### 🗄️ Database & Cloud Services
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/>
+<img src="https://skillicons.dev/icons?i=firebase" width="50"/>
+<img src="https://skillicons.dev/icons?i=oracle" width="50"/>
+</p>
+
+<p>
+<b>MySQL &nbsp; Firebase &nbsp; Oracle</b>
+</p>
+
+
+### 🛠️ Tools & Automation
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git" width="50"/>
+<img src="https://skillicons.dev/icons?i=linux" width="50"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/>
+<img src="https://skillicons.dev/icons?i=selenium" width="50"/>
+</p>
+
+<p>
+<b>Git &nbsp; Linux &nbsp; VS Code &nbsp; Selenium</b>
+</p>
+
+
+### 📱 Mobile Development
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flutter" width="50"/>
+</p>
+
+<p>
+<b>Flutter</b>
+</p>
+
+
+### 🎨 Design & Productivity
+<p align="left">
+<img src="https://skillicons.dev/icons?i=canva" width="50"/>
+</p>
+
+<p>
+<b>Canva</b>
 </p>
 
 
