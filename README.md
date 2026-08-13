@@ -115,6 +115,12 @@
 </tr>
 </table>
 
+<br>
+
+## 🔥 Contribution Streak
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=rahul203-ux&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+</p>
   ### ⭐ "Building AI that solves real-world problems."   
                                                                                                                   
    Thanks for visiting my profile! 😊
