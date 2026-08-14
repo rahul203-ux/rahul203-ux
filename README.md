@@ -157,12 +157,3 @@
   />
 </p>
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rahul203-ux&theme=github-dark&hide_border=true&area=true"
-    width="100%"
-    alt="Rahul's GitHub Activity Graph"
-  />
-</p>
