@@ -11,7 +11,6 @@
 </div>
 
 ---
-
 ## 🚀 About Me
 
 - 🔭 Currently building **AI-Powered Resume-Based Interview Assistant**
